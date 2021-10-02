@@ -21,16 +21,18 @@
 
 
 ## Any bug or suggestion !
-- Contact With Me Discord: Tejas Lamba#1924
-- or Discord Server [Rainbow Studios](https://discord.gg/xtessK2DPA)
+- Contact With Me Discord: MrVenomYt#7103
 
-## Rainbow Studio
-- [Discord Server](https://discord.gg/xtessK2DPA)
-- [Github](https://github.com/TeamRainbowDevs/)
 
+<h1 align="center">Join Support Server</h1>
+ <a href="https://discord.gg/bTY2quuXp3"><img align="center" src="https://discordapp.com/api/guilds/841606148918476800/widget.png?style=banner2" alt="Discord Banner2"/></a>
+ 
+## Venomous Empire
+- [patreons](https://www.patreon.com/DevVenom/)
+- [Github](https://github.com/MrVenomYT/)
+- [Youtube](https://www.youtube.com/channel/UCgkRkvD3IiZCtaxjyG-mwSA)
 ## Licens
 - [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Credits
-[Single guild](https://github.com/TajuModding/Discord-Button-Tickets-Bot/tree/single-guild) - [TajuModding](https://github.com/TajuModding) <br>
-[Single guild](https://github.com/TajuModding/Discord-Button-Tickets-Bot) - [Xynnix](https://github.com/Xynnix)
+[Single guild](https://github.com/MrVenomYT/ticket-tool/tree/single-guild) - [Website](https://www.devmrvenom.ml/) <br>
