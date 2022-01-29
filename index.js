@@ -21,14 +21,6 @@ async function channelLog(embed) {
   ch.send(embed)
 }
 
-client.on('ready', async () => {
-  await console.clear()
-  channelLog(`> The **Bot** is connecting to discord API`)
-  console.log(`Made by MrVenomYt#7103`)
-  console.log(`Credits | VENOMOUS | https://discord.gg/bTY2quuXp3`)
-  console.log(`Join above Server or your nub`)
- 
-});
 client.on('ready', () => {
 	
     console.log(client.user.tag + " has logged in.");
